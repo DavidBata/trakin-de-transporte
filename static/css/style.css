@@ -1,0 +1,30 @@
+.cuadrado {
+    width: 150px;           /* Ancho de 150 píxeles */
+    height: 150px;          /* Alto de 150 píxeles */
+    background: rgb(107, 123, 83);        /* Fondo de color rojo */
+    border: 1px solid #000; /* Borde color negro y de 1 píxel de grosor */
+    /* align-items: right; */
+  }
+.cuadrado-romana {
+    width: 100px;           /* Ancho de 150 píxeles */
+    height: 200px;          /* Alto de 150 píxeles */
+    background: rgb(107, 123, 83);        /* Fondo de color rojo */
+    border: 1px solid #000; /* Borde color negro y de 1 píxel de grosor */
+    /* align-items: right; */
+  }
+.cuadrado-transporte {
+    width: 390px;           /* Ancho de 150 píxeles */
+    height: 300px;          /* Alto de 150 píxeles */
+    background: rgb(121, 125, 115);        /* Fondo de color rojo */
+    border: 1px solid #000; /* Borde color negro y de 1 píxel de grosor */
+    text-overflow: ellipsis;
+    overflow: hidden;
+    /* align-items: right; */
+  }
+img.pequeña{
+    width: 20px;
+    height: 20px;
+  }
+p {
+  line-height: 100%;
+}
